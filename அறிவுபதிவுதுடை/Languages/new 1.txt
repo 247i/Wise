@@ -469,26 +469,3 @@ CurrentFile=தற்போதைய கோப்பு:
 ரத்துசெய்தல்=ரத்துசெய்கிறது...
 CANCEL=ரத்துசெய்
 தயார்=பதிவிறக்கத் தயார்
-[தோல்]
-SkinDefault=Default
-SkinBlue=நீலம்
-SkinGreen=பச்சை
-SkinCustom=விருப்பம்
-ஸ்கின்கலர்=விருப்பமான தோல் நிறம்
-[EUASK]
-regcaption=பதிவு
-logincaption=உள்நுழைவு
-FrmEuaskLogin.lblJoin.Caption=Euask இல் சேரவும்
-FrmEuaskLogin.lblSign.Caption=Euask இல் உள்நுழைக
-FrmEuaskLogin.lblnick.Caption=பயனர் பெயர்:
-FrmEuaskLogin.lbl1.Caption=Password:
-FrmEuaskLogin.btnlogin.caption=உள்நுழை
-FrmEuaskLogin.btnregister.Caption=பதிவு
-FrmEuaskLogin.btnpwd.Caption=உங்கள் கடவுச்சொல்லை மறந்துவிட்டீர்களா?
-FrmEuaskLogin.WiseLabel1.Caption=Username:
-FrmEuaskLogin.WiseLabel2.Caption=கடவுச்சொல்:
-FrmEuaskLogin.btnreg.caption=பதிவு
-FrmEuaskLogin.WiseSimpleButton1.Caption=Login
-FrmEuaskLogin.lbl2.Caption=மின்னஞ்சல்:
-FrmEuaskLogin.btnnone.Caption=இப்போது இல்லை
-inputuser=உங்கள் கடவுச்சொல் மற்றும் பயனர் பெயரை உள்ளிடவும்.
